@@ -1,16 +1,16 @@
 const config = {
 
-    "prefix": "", //Add your prefix here
+    "prefix": "",
 
-    "ownerOnly": false, //If set to true, only bot owner can control Pinger. If set to false, everyone can use Pinger.
+    "ownerOnly": false,
 
-    "ownerID": "", //Id of bot owner for "ownerOnly" function.
+    "ownerID": "",
 
-    "channelName": "", //Name of channel, where will be all pings sent.
-
-    "pingInterval": "1000", //Time in ms (miliseconds). 1000 recommended - If 1000ms (1s), bot will send ping every 1000ms (1s).
-
-    "token": "" //Bot token from discord app.
+    "channelName": "",
+    
+    "pingInterval": "1000", 
+    
+    "token": "",
 
 }
 
